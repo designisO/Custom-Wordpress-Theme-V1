@@ -10,6 +10,16 @@ For this step I was able to use Local by Flywheel. https://localwp.com/ is where
 #### Creating a custom theme
 Learned how to upload a custom theme in the WP dashboard. Also was able to add the thumbnail of the theme. The file must be a png file with size of 1200 x 900.
 
+#### Common Files
+Common files for the WP theme are the following:
+- functions.php
+- style.css
+- header.php
+- footer.php
+- index.php
+- single.php
+- page.php
+
 #### Functions and Arrays in PHP
 WP has it's own functions. Functions learned was:
   -bloginfo();

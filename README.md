@@ -34,17 +34,25 @@ WP has it's own functions. Functions learned was:
   -wp_get_post_id();
   -get_the_title();
   -get_permalink();
+  -wp_head();
+  -add_action();
+  -get_theme_file_uri();
+  -get_the_ID();
 
 #### The Famous WP Loop
+Link: https://developer.wordpress.org/themes/basics/the-loop/
 
 #### Universal Headers and Footers
+  -header.php
+  -footer.php
 
 #### Loading CSS to the Front End of Website
-
+To add the css to the front end, place code in the style.css file after the theme info.
 
 ### Design and Style
+Learned how to style the front end and the interior of pages and blogs.
 
 ### Parent and Children Pages
+Learned how to set sub pages which are called children pages to the parent pages.
 
-### Interior Page Template
 

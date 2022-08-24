@@ -2,6 +2,11 @@
 
 In this repo, I am learning more about the awesome world of WordPress and PHP. The goal is to learn how to create custom themes & plugins before the end of September 2022. Let's dive in.
 
+- For PHP install locally go to: PHP.net: PHP is what allows the pulling of data from the database to the site. Server side scripting and programming language.
+- MySQL- The database where all the data, passwords and more are stored.
+- WP REST API - Uses JS to interact with the PHP code and database.
+- WP Coding Standards: Link: https://developer.wordpress.org/coding-standards/wordpress-coding-standards/
+ 
 
 #### Installing WP Locally.
 For this step I was able to use Local by Flywheel. https://localwp.com/ is where you can download the free software to build WP sites locally.
